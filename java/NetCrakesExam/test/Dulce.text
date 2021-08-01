@@ -1,0 +1,4 @@
+Products{parent=Products{parent=null, products=null
+, name=Panditas, price=1.0}, products=Products{parent=null, products=null
+, name=Serpientes, price=2.0}
+, name=Dulce, price=3.0}

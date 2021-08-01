@@ -1,0 +1,6 @@
+Products{parent=Aggrement{name=Agreement2021/07/31, signedBy=Jose, products=[Products{parent=null, products=null
+, name=Panditas, price=1.0}, Products{parent=null, products=null
+, name=Serpientes, price=2.0}]}, products=Products{parent=null, products=null
+, name=Panditas, price=1.0}Products{parent=null, products=null
+, name=Serpientes, price=2.0}
+, name=Gomas, price=1.0}
